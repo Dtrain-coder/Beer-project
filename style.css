@@ -1,0 +1,19 @@
+/* Styling body */
+
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+.btn {
+  color: white;
+  background-color: orangered;
+}
